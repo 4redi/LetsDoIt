@@ -1,5 +1,7 @@
 # Let's do it! (Do!)
-![Image](assets/Untitled.png)
+<p align="center">
+  <img src="assets/Untitled.png" alt="Image" />
+</p>
 
 # Description
 A stressed student that wants to be productive, then Do! is for you. A simple and minimalist to do list app built in flutter.
